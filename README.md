@@ -1,0 +1,2 @@
+# doubanTop250_puppeteer
+node 使用puppeteer爬虫爬取豆瓣top250榜单电影资料
