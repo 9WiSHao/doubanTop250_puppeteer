@@ -1,0 +1,15 @@
+{
+	"name": "movieTop250",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "node puppeteer.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"puppeteer": "^21.5.2"
+	}
+}
